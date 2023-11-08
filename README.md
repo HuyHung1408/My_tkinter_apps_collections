@@ -1,4 +1,4 @@
-# My_tkitnter_apps_collections
+# My_tkinter_apps_collections
 Many tkinter apps mainly to practice myself with basic OOP, most will find these app useless. Still in WIP
 
 ## Tally Counter
