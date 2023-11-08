@@ -6,6 +6,6 @@ To count and some other stuff. I would not recommend enabling the sound which wi
 
 ![image](https://github.com/HuyHung1408/My_tkinter_apps_collections/blob/main/Screenshots/tally_counter.png)
 
-## Run
+## Mica-Run
 Will be rewritten in OOP and merge into this repo soon. 
 
