@@ -7,5 +7,7 @@ To count and some other stuff. I would not recommend enabling the sound which wi
 ![image](https://github.com/HuyHung1408/My_tkinter_apps_collections/blob/main/Screenshots/tally_counter.png)
 
 ## Mica-Run
-Will be rewritten in OOP and merge into this repo soon. 
+A program that mimics Windows Run but is made with Python and a taste of Sun-Valley design.
+
+![image](https://user-images.githubusercontent.com/86362423/158045500-413133e4-6bbe-4402-b197-8da897c755e7.gif)
 
